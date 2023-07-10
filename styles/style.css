@@ -61,6 +61,7 @@ font-weight: 600;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 140px;
 }
 .img-main{
     margin-left:100px;
