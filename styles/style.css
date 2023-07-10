@@ -179,6 +179,11 @@ margin-top: 16px;
     margin-top: 32px;
     display: flex;
     gap: 20px;
+    cursor: pointer;
+    width: 40%;
+}
+.footer-logo>img{
+    cursor: pointer;
 }
 
 .right-footer h2{
@@ -206,4 +211,10 @@ background: #FFF;
 color: #F15B22;
 font-weight: 600;
 padding: 20px 36px;
+}
+
+.right-footer > button:hover{
+    background-color: #151414;
+    color: #F15B22;
+    cursor: pointer;
 }
